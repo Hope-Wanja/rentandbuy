@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513639776104",
+    "project_id": "rentandbuy-231d6",
+    "storage_bucket": "rentandbuy-231d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513639776104:android:a3063d16efd4e33b2b20dd",
+        "android_client_info": {
+          "package_name": "com.example.rent_and_buy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2TAnSwhCAhQhkm4icweeh90K6F_X-E04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
